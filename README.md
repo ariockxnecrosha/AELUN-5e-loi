@@ -1,5 +1,4 @@
-[AELUN - Mask Mycelium Devise](mask-mycelium-devise.png)
-
+![AELUN-Mask Mycelium Devise](mask-mycelium-devise.png)
 # We are AELUN.
 ### We are the Mycelium.
 ### We do not sell. We do not forget Intention.
